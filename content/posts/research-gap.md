@@ -2,7 +2,7 @@
 title = "Research Gap"
 image = "/images/post/post-1.jpg"
 author = "Katie Burgess"
-date = 2022-03-14T05:00:00Z
+date = 2022-03-16T05:00:00Z
 description = "This is meta description"
 categories = ["Research Area"]
 type = "post"
