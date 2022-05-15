@@ -135,7 +135,7 @@ can gather.
 
 ![](/images/post/Results.png)
 
-    I displayed my work this way in order to make it visually clear how much more often
+I displayed my work this way in order to make it visually clear how much more often
 some popular choices were over others. I also did it this way as I believed it would
 be easier to verbally explain the significance of these, as writing down the reasons
 for different choice strategies would get complicated, cluttered, and distract from
@@ -143,7 +143,7 @@ the data in the graph.
 
 ![](/images/post/Experiment-Workflow.pdf)
 
-    I displayed my workflow for the experiment this way in order to make it clear how I
+I displayed my workflow for the experiment this way in order to make it clear how I
 was using my prototype and collecting my data. I used colors in order to make the
 steps pop against the background, making it more readable and easier to understand
 for a general audience.
