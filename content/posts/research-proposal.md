@@ -11,7 +11,7 @@ type = "post"
 
 ## Intro
 
-    My area of research in my proposed project area is machine learning in
+My area of research in my proposed project area is machine learning in
 video games and the level of enjoyment players get from playing against a
 model. My specific proposed idea is creating a machine learning model that
 plays competitive generation 1 OU pokemon on a host website called 
@@ -29,7 +29,7 @@ entertainment a player can get as opposed to a human opponent.
 
 ## Existing Literature
 
-    This is not an entirely new concept in research literature. 
+This is not an entirely new concept in research literature. 
 Ghasemi, Maryam, et al. "Design and Construction of Zana Robot for
 Modeling Human Player in Rock-paper-scissors Game using Multilayer
 Perceptron, Radial basis Functions and Markov Algorithms." ARO-The
@@ -113,7 +113,7 @@ choice and complete my experiment.
 
 ## Experiment
 
-    Using the data I collected from my experiment, I decided to choose Starmie 
+Using the data I collected from my experiment, I decided to choose Starmie 
 as my starting choice. Starmie either has a super effective choice against 
 the opposing choices or is able to apply pressure through the opponent not 
 being very effective or the threat of a disadvantageous status condition. 
@@ -150,7 +150,7 @@ for a general audience.
 
 ## Feasibility
 
-    My research project has a manageable scope and is very feasible. I believe 
+My research project has a manageable scope and is very feasible. I believe 
 that it will only take me between two and two and a half months to create 
 and refine the code portion of my project, including the graphs I plan on 
 creating after the completion of my player experience trial. If given more 
@@ -199,7 +199,7 @@ sure that my code is organized in an efficient and professional way.
 
 ## Ethics
 
-    Since my research project works with people without their knowledge, there are 
+Since my research project works with people without their knowledge, there are 
 a multitude of ethical concerns. The first and foremost dealing with what I 
 just said: the opponent does not know that their move choices are being 
 collected for my research. I am currently trying to deal with that through 
@@ -228,7 +228,7 @@ effecting the opponent's enjoyment of the site, or improving it for them.
 
 ## Conclusion
 
-    There are very clear next steps in order to develop and eventually complete my 
+There are very clear next steps in order to develop and eventually complete my 
 research project for my senior comprehensive. These steps are as follows:
 1. Access and store online bank of stored game history for the Gen 1 OU format
 2. Build AI model and integrate it with the prototype I have already built
