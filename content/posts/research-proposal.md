@@ -2,7 +2,7 @@
 title = "Research Proposal"
 image = "/images/post/post-2.jpg"
 author = "Katie Burgess"
-date = 2022-03-14T05:00:00Z
+date = 2022-05-15T05:00:00Z
 description = "This is meta description"
 categories = ["Proposal"]
 type = "post"
