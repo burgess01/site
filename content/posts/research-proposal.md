@@ -133,7 +133,7 @@ foundations by demonstrating that the data that can be gained from this game
 is very easy to visualize and there is a vast amount of different stats you
 can gather.
 
-![](Results.png)
+![](/images/post/Results.png)
 
     I displayed my work this way in order to make it visually clear how much more often
 some popular choices were over others. I also did it this way as I believed it would
@@ -141,7 +141,7 @@ be easier to verbally explain the significance of these, as writing down the rea
 for different choice strategies would get complicated, cluttered, and distract from
 the data in the graph.
 
-![](Experiment-Workflow.pdf)
+![](/images/post/Experiment-Workflow.pdf)
 
     I displayed my workflow for the experiment this way in order to make it clear how I
 was using my prototype and collecting my data. I used colors in order to make the
